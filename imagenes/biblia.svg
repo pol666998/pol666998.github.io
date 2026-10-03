@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width="100" height="120">
+  <!-- Libro cerrado -->
+  <rect x="15" y="20" width="70" height="85" rx="4" fill="#6c5ce7"/>
+  <rect x="18" y="23" width="64" height="79" rx="2" fill="#a29bfe"/>
+  <!-- Lomo -->
+  <rect x="15" y="20" width="12" height="85" rx="3" fill="#5f3dc4"/>
+  <!-- Páginas -->
+  <rect x="30" y="28" width="48" height="70" fill="#f8f9fa"/>
+  <!-- Texto simulado -->
+  <line x1="36" y1="40" x2="70" y2="40" stroke="#ced4da" stroke-width="2"/>
+  <line x1="36" y1="48" x2="68" y2="48" stroke="#ced4da" stroke-width="2"/>
+  <line x1="36" y1="56" x2="65" y2="56" stroke="#ced4da" stroke-width="2"/>
+  <line x1="36" y1="64" x2="70" y2="64" stroke="#ced4da" stroke-width="2"/>
+  <line x1="36" y1="72" x2="60" y2="72" stroke="#ced4da" stroke-width="2"/>
+  <!-- Cruz dorada en la tapa -->
+  <rect x="50" y="35" width="6" height="28" rx="1" fill="#f1c40f"/>
+  <rect x="42" y="45" width="22" height="6" rx="1" fill="#f1c40f"/>
+  <!-- Marca de página -->
+  <path d="M75 20 L75 45 L70 40 L65 45 L65 20" fill="#e74c3c"/>
+</svg>

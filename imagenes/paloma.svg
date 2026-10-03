@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" width="120" height="100">
+  <!-- Cuerpo -->
+  <ellipse cx="55" cy="55" rx="28" ry="20" fill="#f5f6fa"/>
+  <!-- Cabeza -->
+  <circle cx="80" cy="42" r="14" fill="#f5f6fa"/>
+  <!-- Pico -->
+  <polygon points="92,42 102,45 92,48" fill="#e1b12c"/>
+  <!-- Ojo -->
+  <circle cx="84" cy="40" r="2.5" fill="#2f3640"/>
+  <!-- Ala -->
+  <path d="M40 50 Q25 30 35 55 Q20 45 38 60" fill="#dcdde1"/>
+  <path d="M45 55 Q30 40 42 62" fill="#f5f6fa"/>
+  <!-- Cola -->
+  <path d="M30 55 Q15 50 20 70 Q25 60 32 65" fill="#dcdde1"/>
+  <!-- Rama de olivo -->
+  <path d="M95 55 Q105 50 110 60" stroke="#27ae60" stroke-width="2" fill="none"/>
+  <ellipse cx="108" cy="52" rx="4" ry="2.5" fill="#2ecc71" transform="rotate(-20 108 52)"/>
+  <ellipse cx="112" cy="58" rx="3.5" ry="2" fill="#27ae60" transform="rotate(15 112 58)"/>
+</svg>
